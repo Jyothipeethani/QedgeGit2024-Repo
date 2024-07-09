@@ -1,4 +1,3 @@
-// Compiling this Java program would 
 // result in multiple class files. 
 
 class Sample 
